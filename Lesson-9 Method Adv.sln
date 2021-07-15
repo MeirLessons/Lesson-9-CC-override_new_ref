@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson-9 Method Adv", "Lesson-9 Method Adv\Lesson-9 Method Adv.csproj", "{7DF7DD89-FAD3-43DC-907D-417D628AAF1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF7DD89-FAD3-43DC-907D-417D628AAF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF7DD89-FAD3-43DC-907D-417D628AAF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF7DD89-FAD3-43DC-907D-417D628AAF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF7DD89-FAD3-43DC-907D-417D628AAF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9D828C-7C12-4A3B-8257-3A43718E163E}
+	EndGlobalSection
+EndGlobal
